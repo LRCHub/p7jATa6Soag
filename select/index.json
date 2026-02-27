@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "intro (end of the world) (lyric visualizer)",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-02-27T04:19:39.147774Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "intro (end of the world)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/01_intro_(end_of_the_world)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "intro (end of the world)",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/02_intro_(end_of_the_world)_Ariana_Grande.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "intro (end of the world)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/03_intro_(end_of_the_world)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "intro (end of the world)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/04_intro_(end_of_the_world)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "intro (end of the world)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_intro_(end_of_the_world)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "intro (end of the world)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/06_intro_(end_of_the_world)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "intro (end of the world)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/07_intro_(end_of_the_world)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "intro (end of the world) (lyric visualizer)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_intro_(end_of_the_world)_(lyric_visualizer)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Intro (end of the world)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/09_Intro_(end_of_the_world)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "intro (end of the world) (Live)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/10_intro_(end_of_the_world)_(Live)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "intro (end of the world) (Paused)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/11_intro_(end_of_the_world)_(Paused)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "intro (end of the world) (extended)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/12_intro_(end_of_the_world)_(extended)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Intro (End Of The World)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/13_Intro_(End_Of_The_World)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "intro (end of the world) – extended",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/14_intro_(end_of_the_world)_–_extended_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "intro (end of the world) (extended)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/15_intro_(end_of_the_world)_(extended)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "intro (end of the world) (live version)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/16_intro_(end_of_the_world)_(live_version)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "intro (end of the world)",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_intro_(end_of_the_world)_Ariana_Grande.txt"
+    }
+  ]
+}
